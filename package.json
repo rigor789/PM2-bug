@@ -1,0 +1,11 @@
+{
+  "name": "pm2-bug",
+  "version": "0.0.0",
+  "description": "https://github.com/Unitech/pm2/issues/2077",
+  "main": "entry.js",
+  "author": "rigor789",
+  "license": "MIT",
+  "dependencies": {
+    "pm2": "^2.0.15"
+  }
+}
